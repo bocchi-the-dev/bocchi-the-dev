@@ -10,6 +10,7 @@
 <b>•</b> 17-year-old coder (since age 12)<br>
 <b>•</b> Love gaming, exploring new things and learning new stuff on the way<br>
 <b>•</b> Chopped but kinda blessed with Audhd and introversion.<br>
+<b>•</b> Loser<br>
 <b>•</b> Single by fate, waiting by faith (Isaiah 60:22)<br>
 <br clear="left">
 <p align="right">
