@@ -46,6 +46,6 @@
 ---
 
 <p align="center">
-  Anyways, join my <a href="https://discord.gg/GRded35Ak4">discord</a> if you are interested.<br>
+  Anyways, join my <a href="https://discord.gg/E6DbYWj3PS">discord</a> if you are interested.<br>
   Wish me luck on my final high school exams!
 </p>
