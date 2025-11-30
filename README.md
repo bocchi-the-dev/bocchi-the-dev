@@ -2,8 +2,6 @@
     <img src="https://raw.githubusercontent.com/Crystaltrd/Crystaltrd/refs/heads/main/teto-tetoris.gif" alt="tetoris" width="200">
 </p>
 <h1 align="center">Hey there, I'm Bocchi (ぼっち)👋</h1>
-
-## Welp, here's what you need to know about me!
 <p align="center">
     <img src="hutao.png" alt="Hu Tao" width="400" align="left" style="margin-right: 25px; border-radius: 10px;" />
 </p>
